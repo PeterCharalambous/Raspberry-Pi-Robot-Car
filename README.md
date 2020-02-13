@@ -4,7 +4,7 @@
 https://docs.google.com/document/d/1PJYu9Ek7b3U291MIbg03kCoHkCB6qOyXk-m6gj4QcKA/edit?usp=sharing
 
 # Overview
-This was a project that was completed for school work.
+This was a project that was completed for school work years ago.
 
 This project utilises a Raspberry Pi 3 Model B to create a functioning robot car. The robot comprises of two DC motors which are controlled using a L298n motor drive board.
 
